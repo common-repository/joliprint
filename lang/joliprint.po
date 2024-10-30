@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: joliprint wordpress plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-22 14:54+0100\n"
+"PO-Revision-Date: 2011-12-22 14:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: joliprint <hello@joliprint.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../joliprint.php:83
+msgid "Joliprint is almost ready."
+msgstr ""
+
+#: ../joliprint.php:83
+#, php-format
+msgid "Take some time to <a href=\"%1$s\">complete and save your configuration</a>."
+msgstr ""
+
+#: ../joliprint.php:93
+msgid "Settings"
+msgstr ""
+
+#: ../joliprint.php:94
+msgid "Support"
+msgstr ""
+
+#: ../joliprint_admin_options.php:13
+msgid "Support us"
+msgstr ""
+
+#: ../joliprint_admin_options.php:14
+msgid "Choose your button"
+msgstr ""
+
+#: ../joliprint_admin_options.php:15
+msgid "Header options"
+msgstr ""
+
+#: ../joliprint_admin_options.php:16
+msgid "Joliprint Server Options"
+msgstr ""
+
+#: ../joliprint_admin_options.php:17
+msgid "Google Analytics Tracking Options"
+msgstr ""
+
+#: ../joliprint_admin_options.php:167
+msgid "Please wait"
+msgstr ""
+
+#: ../joliprint_admin_options.php:174
+msgid "An error occured during the communication with the joliprint server. Please try again later."
+msgstr ""
+
+#: ../joliprint_admin_options.php:179
+msgid "PDF Cache erased."
+msgstr ""
+
+#: ../joliprint_admin_options.php:208
+msgid "Joliprint Options"
+msgstr ""
+
+#: ../joliprint_admin_options.php:210
+msgid "Button"
+msgstr ""
+
+#: ../joliprint_admin_options.php:211
+msgid "PDF layout"
+msgstr ""
+
+#: ../joliprint_admin_options.php:212
+msgid "Technical options"
+msgstr ""
+
+#: ../joliprint_admin_options.php:213
+msgid "Analytics"
+msgstr ""
+
+#: ../joliprint_admin_options.php:255
+msgid "Save Changes"
+msgstr ""
+
+#: ../joliprint_admin_options.php:298
+#: ../joliprint_admin_options.php:304
+#: ../joliprint_admin_options.php:310
+#: ../joliprint_admin_options.php:321
+#: ../joliprint_admin_options.php:343
+#: ../joliprint_admin_options.php:355
+msgid "Print with Joliprint"
+msgstr ""
+
+#: ../joliprint_admin_options.php:325
+msgid "Button label"
+msgstr ""
+
+#: ../joliprint_admin_options.php:328
+msgid "Hint : if you don't want any label for your button, leave a blank space in the label text field"
+msgstr ""
+
+#: ../joliprint_admin_options.php:330
+msgid "Label position"
+msgstr ""
+
+#: ../joliprint_admin_options.php:332
+msgid "After the image"
+msgstr ""
+
+#: ../joliprint_admin_options.php:334
+msgid "Before the image"
+msgstr ""
+
+#: ../joliprint_admin_options.php:351
+msgid "Text link"
+msgstr ""
+
+#: ../joliprint_admin_options.php:362
+msgid "Use your own button"
+msgstr ""
+
+#: ../joliprint_admin_options.php:364
+msgid "Upload your button"
+msgstr ""
+
+#: ../joliprint_admin_options.php:411
+msgid "Button styling"
+msgstr ""
+
+#: ../joliprint_admin_options.php:416
+msgid "Use default Joliprint CSS stylesheet "
+msgstr ""
+
+#: ../joliprint_admin_options.php:422
+msgid "Skip default Joliprint CSS stylesheet "
+msgstr ""
+
+#: ../joliprint_admin_options.php:428
+msgid "Button position"
+msgstr ""
+
+#: ../joliprint_admin_options.php:433
+msgid "Standard position"
+msgstr ""
+
+#: ../joliprint_admin_options.php:439
+msgid "&raquo; Homepage"
+msgstr ""
+
+#: ../joliprint_admin_options.php:443
+#: ../joliprint_admin_options.php:456
+#: ../joliprint_admin_options.php:469
+msgid "Button not displayed"
+msgstr ""
+
+#: ../joliprint_admin_options.php:444
+#: ../joliprint_admin_options.php:457
+#: ../joliprint_admin_options.php:470
+msgid "After the text"
+msgstr ""
+
+#: ../joliprint_admin_options.php:445
+#: ../joliprint_admin_options.php:458
+#: ../joliprint_admin_options.php:471
+msgid "Before the text"
+msgstr ""
+
+#: ../joliprint_admin_options.php:446
+#: ../joliprint_admin_options.php:459
+#: ../joliprint_admin_options.php:472
+msgid "Before and after the text"
+msgstr ""
+
+#: ../joliprint_admin_options.php:452
+msgid "&raquo; Posts"
+msgstr ""
+
+#: ../joliprint_admin_options.php:465
+msgid "&raquo; Pages"
+msgstr ""
+
+#: ../joliprint_admin_options.php:480
+msgid "Custom position"
+msgstr ""
+
+#: ../joliprint_admin_options.php:485
+msgid "insert the following PHP code in your templates where you want to display your button<br/><code>&lt;?php if ( function_exists( 'joliprint_show_the_button' ) ) echo joliprint_show_the_button(); ?&gt;</code>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:486
+msgid "<br/>or you can insert the following HTML code somewhere in your templates/widgets if you are able to provide the url and title within the widget<br/><code>&lt;span class='joliprint_button' data-url='[url]' data-title='[title]'&gt;&lt;/span&gt;</code>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:487
+msgid "<br/>if you are not sure about the title and url you can simply use <code>&lt;span class='joliprint_button'&gt;&lt;/span&gt;</code>. Joliprint will try to find url and title by itself but Google Analytics tracking should not be correct."
+msgstr ""
+
+#: ../joliprint_admin_options.php:488
+msgid "Warning : Do not forget to remove this code from your pages if you deactivate or remove the Joliprint plugin."
+msgstr ""
+
+#: ../joliprint_admin_options.php:515
+msgid "Default header"
+msgstr ""
+
+#: ../joliprint_admin_options.php:520
+#, php-format
+msgid "Based on your blogname : <strong>%1$s</strong>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:527
+msgid "Custom text header"
+msgstr ""
+
+#: ../joliprint_admin_options.php:537
+msgid "Graphic header"
+msgstr ""
+
+#: ../joliprint_admin_options.php:541
+msgid "Upload your image"
+msgstr ""
+
+#: ../joliprint_admin_options.php:542
+msgid "The complete URL to your logo (.eps or .ai files prefered). Recommanded size : 800x120 px - 72 dpi"
+msgstr ""
+
+#: ../joliprint_admin_options.php:543
+msgid "<strong>Be sure that this URL will be visible on the internet.</strong>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:557
+msgid "Cache reset"
+msgstr ""
+
+#: ../joliprint_admin_options.php:560
+msgid "Click here to reset the cache now"
+msgstr ""
+
+#: ../joliprint_admin_options.php:562
+msgid "Joliprint is caching PDF files for a few hours."
+msgstr ""
+
+#: ../joliprint_admin_options.php:590
+msgid "Track Joliprint requests into your Google Analytics account"
+msgstr ""
+
+#: ../joliprint_admin_options.php:594
+msgid "Joliprint tracking enabled"
+msgstr ""
+
+#: ../joliprint_admin_options.php:595
+msgid "Joliprint tracking disabled"
+msgstr ""
+
+#: ../joliprint_admin_options.php:599
+msgid "<strong>IMPORTANT :</strong>Joliprint will use your current Google Analytics configuration. In order to have Joliprint tracking in Google Analytics you will need to have a Google Analytics plugin enabled on your Blog and a valid Google Analytics account.<br/>You will find your Joliprint printed article in your Events tracking in your GA dashboard under the Joliprint category (Content > Event Tracking) ."
+msgstr ""
+
+#: ../joliprint_admin_options.php:602
+msgid "Google Analytics Campaigns URL Tracking"
+msgstr ""
+
+#: ../joliprint_admin_options.php:603
+msgid "If you are using Google Analytics and want to identify links pointing back to your website you can set the campaign name and campaign medium below."
+msgstr ""
+
+#: ../joliprint_admin_options.php:607
+msgid "Medium name"
+msgstr ""
+
+#: ../joliprint_admin_options.php:612
+msgid "(ie. joliprint_printed_pdf)"
+msgstr ""
+
+#: ../joliprint_admin_options.php:617
+msgid "Campaign name"
+msgstr ""
+
+#: ../joliprint_admin_options.php:621
+msgid "(ie. PDF)"
+msgstr ""
+
+#: ../joliprint_admin_options.php:631
+msgid "If you have made changes in this page it would be a clever idea to reset your PDF cache files on Joliprint.<br/>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:631
+#, php-format
+msgid "You can reset your cache files on this <a href=\"%1$s\">page</a>."
+msgstr ""
+
+#: ../joliprint_admin_options.php:634
+msgid "The cache of your PDF files has been deleted on the Joliprint server.<br/>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:687
+msgid "Give this plugin a perfect Rating !"
+msgstr ""
+
+#: ../joliprint_admin_options.php:688
+msgid "Tell your followers"
+msgstr ""
+
+#: ../joliprint_admin_options.php:689
+msgid "Like our Facebook page"
+msgstr ""
+
+#: ../joliprint_admin_options.php:690
+msgid "Follow <a href='http://twitter.com/joliprint' target='_blank'>Joliprint's updates on Twitter</a> &amp; Visit <a href='http://www.joliprint.com/blog/' target='_blank'>our blog</a>"
+msgstr ""
+
+#: ../joliprint_admin_options.php:691
+msgid "Support and Help"
+msgstr ""
+
+#: ../joliprint_admin_options.php:699
+msgid "Hide Joliprint credit in waiting page."
+msgstr ""
+
+#: ../joliprint_admin_options.php:701
+msgid "Show Joliprint credit in waiting page."
+msgstr ""
+
+#: ../joliprint_ajax.php:29
+msgid "This action is not valid."
+msgstr ""
+
+#: ../joliprint_ajax.php:58
+msgid "Cache update is not possible due to your Wordpress version. Please upgrade to at least Wordpress 2.7."
+msgstr ""
+
+#: ../joliprint_options_upload.php:5
+msgid "You do not have permission to upload files."
+msgstr ""
+
+#: ../joliprint_options_upload.php:6
+msgid "You do not have permission to edit plugins."
+msgstr ""
+
+#: ../joliprint_options_upload.php:107
+msgid "The upload directory doesn't exists on your server and the plugin failed to create it.<br><strong>Please create a joliprint directory in your /wp-content/uploads/ directory.</strong>"
+msgstr ""
+
+#: ../joliprint_options_upload.php:116
+msgid "<p style='color:green'>Your file has been sent to the server, thank you.</p>"
+msgstr ""
+
+#: ../joliprint_options_upload.php:119
+msgid "<p style='color:red'>This action is not authorized, we are sorry.</p>"
+msgstr ""
+
+#: ../joliprint_options_upload.php:124
+msgid "Please choose a file to upload"
+msgstr ""
+

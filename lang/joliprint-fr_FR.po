@@ -1,0 +1,631 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: joliprint wordpress plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-22 14:54+0100\n"
+"PO-Revision-Date: 2011-12-22 14:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: joliprint <hello@joliprint.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../joliprint.php:83
+msgid "Joliprint is almost ready."
+msgstr "Joliprint est presque pr&ecirc;t"
+
+#: ../joliprint.php:83
+#, php-format
+msgid "Take some time to <a href=\"%1$s\">complete and save your configuration</a>."
+msgstr "Prenez un peu de temps pour <a href=\"%1$s\">compl&eacute;ter et sauvegarder votre configuration</a>."
+
+#: ../joliprint.php:93
+msgid "Settings"
+msgstr "Param&eacute;trage"
+
+#: ../joliprint.php:94
+msgid "Support"
+msgstr "Support"
+
+#: ../joliprint_admin_options.php:13
+msgid "Support us"
+msgstr "Soutenez nous"
+
+#: ../joliprint_admin_options.php:14
+msgid "Choose your button"
+msgstr "Choix du bouton"
+
+#: ../joliprint_admin_options.php:15
+msgid "Header options"
+msgstr "En-t&ecirc;te d'impression"
+
+#: ../joliprint_admin_options.php:16
+msgid "Joliprint Server Options"
+msgstr "Options du serveur Joliprint"
+
+#: ../joliprint_admin_options.php:17
+msgid "Google Analytics Tracking Options"
+msgstr "Options de tracking Google Analytics"
+
+#: ../joliprint_admin_options.php:167
+msgid "Please wait"
+msgstr "Veuillez patienter"
+
+#: ../joliprint_admin_options.php:174
+msgid "An error occured during the communication with the joliprint server. Please try again later."
+msgstr "Une erreur est survenue durant la communication avec le serveur Joliprint. Merci de r&eacute;-essayer plus tard."
+
+#: ../joliprint_admin_options.php:179
+msgid "PDF Cache erased."
+msgstr "Les PDF en cache ont &eacute;t&eacute;s supprim&eacute;s."
+
+#: ../joliprint_admin_options.php:208
+msgid "Joliprint Options"
+msgstr "Options Joliprint"
+
+#: ../joliprint_admin_options.php:210
+msgid "Button"
+msgstr "Bouton"
+
+#: ../joliprint_admin_options.php:211
+msgid "PDF layout"
+msgstr "Mise en page PDF"
+
+#: ../joliprint_admin_options.php:212
+msgid "Technical options"
+msgstr "Options techniques"
+
+#: ../joliprint_admin_options.php:213
+msgid "Analytics"
+msgstr "Statistiques"
+
+#: ../joliprint_admin_options.php:255
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../joliprint_admin_options.php:298
+#: ../joliprint_admin_options.php:304
+#: ../joliprint_admin_options.php:310
+#: ../joliprint_admin_options.php:321
+#: ../joliprint_admin_options.php:343
+#: ../joliprint_admin_options.php:355
+msgid "Print with Joliprint"
+msgstr "Imprimer avec Joliprint"
+
+#: ../joliprint_admin_options.php:325
+msgid "Button label"
+msgstr "Libell&eacute; du bouton"
+
+#: ../joliprint_admin_options.php:328
+msgid "Hint : if you don't want any label for your button, leave a blank space in the label text field"
+msgstr "Astuce : si vous ne souhaitez pas voir de libell&eacute; pour votre bouton, laissez un espace vide dans le champ texte du libell&eacute;"
+
+#: ../joliprint_admin_options.php:330
+msgid "Label position"
+msgstr "Position du libell&eacute;"
+
+#: ../joliprint_admin_options.php:332
+msgid "After the image"
+msgstr "Apr&egrave;s l'image"
+
+#: ../joliprint_admin_options.php:334
+msgid "Before the image"
+msgstr "Avant l'image"
+
+#: ../joliprint_admin_options.php:351
+msgid "Text link"
+msgstr "Lien textuel"
+
+#: ../joliprint_admin_options.php:362
+msgid "Use your own button"
+msgstr "Mon bouton"
+
+#: ../joliprint_admin_options.php:364
+msgid "Upload your button"
+msgstr "Télécharger votre bouton"
+
+#: ../joliprint_admin_options.php:411
+msgid "Button styling"
+msgstr "Stylage du bouton"
+
+#: ../joliprint_admin_options.php:416
+msgid "Use default Joliprint CSS stylesheet "
+msgstr "Utiliser la feuille de style Joliprint par défaut"
+
+#: ../joliprint_admin_options.php:422
+msgid "Skip default Joliprint CSS stylesheet "
+msgstr "D&eacute;sactiver le t&eacute;l&eacute;chargement de la feuille de style Joliprint"
+
+#: ../joliprint_admin_options.php:428
+msgid "Button position"
+msgstr "Position du bouton"
+
+#: ../joliprint_admin_options.php:433
+msgid "Standard position"
+msgstr "Emplacements standards"
+
+#: ../joliprint_admin_options.php:439
+msgid "&raquo; Homepage"
+msgstr "&raquo; Page d'accueil"
+
+#: ../joliprint_admin_options.php:443
+#: ../joliprint_admin_options.php:456
+#: ../joliprint_admin_options.php:469
+msgid "Button not displayed"
+msgstr "Bouton non affich&eacute;"
+
+#: ../joliprint_admin_options.php:444
+#: ../joliprint_admin_options.php:457
+#: ../joliprint_admin_options.php:470
+msgid "After the text"
+msgstr "Apr&egrave;s le texte"
+
+#: ../joliprint_admin_options.php:445
+#: ../joliprint_admin_options.php:458
+#: ../joliprint_admin_options.php:471
+msgid "Before the text"
+msgstr "Avant le texte"
+
+#: ../joliprint_admin_options.php:446
+#: ../joliprint_admin_options.php:459
+#: ../joliprint_admin_options.php:472
+msgid "Before and after the text"
+msgstr "Avant et  apr&egrave;s le texte"
+
+#: ../joliprint_admin_options.php:452
+msgid "&raquo; Posts"
+msgstr "&raquo; Articles"
+
+#: ../joliprint_admin_options.php:465
+msgid "&raquo; Pages"
+msgstr "&raquo; Pages"
+
+#: ../joliprint_admin_options.php:480
+msgid "Custom position"
+msgstr "Emplacement(s) sp&eacute;cifique(s)"
+
+#: ../joliprint_admin_options.php:485
+msgid "insert the following PHP code in your templates where you want to display your button<br/><code>&lt;?php if ( function_exists( 'joliprint_show_the_button' ) ) echo joliprint_show_the_button(); ?&gt;</code>"
+msgstr "Ins&eacute;rer le code PHP suivant dans vos templates Wordpress &agrave; l'emplacement o&ugrave; vous souhaitez voir appara&icirc;tre le bouton Joliprint<br/><code>&lt;?php if ( function_exists( 'joliprint_show_the_button' ) ) echo joliprint_show_the_button(); ?&gt;</code>"
+
+#: ../joliprint_admin_options.php:486
+msgid "<br/>or you can insert the following HTML code somewhere in your templates/widgets if you are able to provide the url and title within the widget<br/><code>&lt;span class='joliprint_button' data-url='[url]' data-title='[title]'&gt;&lt;/span&gt;</code>"
+msgstr "<br/>ou vous pouvez ins&eacute;rer le code HTML suivant dans vos templates/widget si vous &ecirc;tes capable de fournir l'url &agrave; imprimer ainsi que le titre du billet/page.<br/><code>&lt;span class='joliprint_button' data-url='[url]' data-title='[title]'&gt;&lt;/span&gt;</code>"
+
+#: ../joliprint_admin_options.php:487
+msgid "<br/>if you are not sure about the title and url you can simply use <code>&lt;span class='joliprint_button'&gt;&lt;/span&gt;</code>. Joliprint will try to find url and title by itself but Google Analytics tracking should not be correct."
+msgstr "<br/>si vous n'êtes pas s&ucirc;r du titre ni de l'url vous pouvez aussi essayer simplement d'ins&eacute;rer le code <code>&lt;span class='joliprint_button'&gt;&lt;/span&gt;</code>. Joliprint essaiera de retrouver ces &eacute;l&eacute;ments par lui-m&ecirc;me mais le suivi Google Analytics risque de ne pas &ecirc;tre tout &agrave; fait correct."
+
+#: ../joliprint_admin_options.php:488
+msgid "Warning : Do not forget to remove this code from your pages if you deactivate or remove the Joliprint plugin."
+msgstr "Attention : N'oubliez pas de supprimez ce code de vos pages si vous d&eacute;sactivez ou supprimez le plugin Joliprint."
+
+#: ../joliprint_admin_options.php:515
+msgid "Default header"
+msgstr "En-t&ecirc;te par défaut"
+
+#: ../joliprint_admin_options.php:520
+#, php-format
+msgid "Based on your blogname : <strong>%1$s</strong>"
+msgstr "Bas&eacute; sur le nom de votre blog Wordpress : <strong>%1$s</strong>"
+
+#: ../joliprint_admin_options.php:527
+msgid "Custom text header"
+msgstr "En-t&ecirc;te textuelle"
+
+#: ../joliprint_admin_options.php:537
+msgid "Graphic header"
+msgstr "En-t&ecirc;te graphique"
+
+#: ../joliprint_admin_options.php:541
+msgid "Upload your image"
+msgstr "T&eacute;l&eacute;charger votre image"
+
+#: ../joliprint_admin_options.php:542
+msgid "The complete URL to your logo (.eps or .ai files prefered). Recommanded size : 800x120 px - 72 dpi"
+msgstr "L'URL compl&egrave;te vers votre logo (de pr&eacute;f&eacute;rence un fichier eps ou ai). Taille recommand&eacute;e : 800x120 px - 72 dpi"
+
+#: ../joliprint_admin_options.php:543
+msgid "<strong>Be sure that this URL will be visible on the internet.</strong>"
+msgstr "<strong>Assurez vous que cette URL est accessible sur internet.</strong>"
+
+#: ../joliprint_admin_options.php:557
+msgid "Cache reset"
+msgstr "R&eacute;-initialisation du cache Joliprint"
+
+#: ../joliprint_admin_options.php:560
+msgid "Click here to reset the cache now"
+msgstr "Cliquez ici pour r&eacute;-initialiser le cache"
+
+#: ../joliprint_admin_options.php:562
+msgid "Joliprint is caching PDF files for a few hours."
+msgstr "Joliprint met en cache vos PDF pendant plusieurs heures."
+
+#: ../joliprint_admin_options.php:590
+msgid "Track Joliprint requests into your Google Analytics account"
+msgstr "Suivre les impressions Joliprint dans votre Google Analytics"
+
+#: ../joliprint_admin_options.php:594
+msgid "Joliprint tracking enabled"
+msgstr "Suivi des impressions activ&eacute;"
+
+#: ../joliprint_admin_options.php:595
+msgid "Joliprint tracking disabled"
+msgstr "Suivi des impressions d&eacute;sactiv&eacute;"
+
+#: ../joliprint_admin_options.php:599
+msgid "<strong>IMPORTANT :</strong>Joliprint will use your current Google Analytics configuration. In order to have Joliprint tracking in Google Analytics you will need to have a Google Analytics plugin enabled on your Blog and a valid Google Analytics account.<br/>You will find your Joliprint printed article in your Events tracking in your GA dashboard under the Joliprint category (Content > Event Tracking) ."
+msgstr "<strong>IMPORTANT :<strong> Joliprint utilisera votre configuration Google Analytics actuelle. Afin d'activer le suivi des impressions vous aurez besoin d'activer Google Analytics sur votre blog ind&eacute;pendament du plugin Joliprint.<br/>Vous trouverez les documents imprim&eacute;s par vos utilisateurs dans le suivi des &eacute;v&eacute;nements sous la cat&eacute;gorie Joliprint (Contenu > Suivi des &eacute;v&eacute;nements)"
+
+#: ../joliprint_admin_options.php:602
+msgid "Google Analytics Campaigns URL Tracking"
+msgstr "Campagnes Google Analytics"
+
+#: ../joliprint_admin_options.php:603
+msgid "If you are using Google Analytics and want to identify links pointing back to your website you can set the campaign name and campaign medium below."
+msgstr "Si vous utilisez Google Analytics et que vous souhaitez associer les liens des PDF de votre site &agrave; une campagne de suivi Google veuillez saisir les informations de la campagne ci-dessous."
+
+#: ../joliprint_admin_options.php:607
+msgid "Medium name"
+msgstr "Nom du medium (utm_medium)"
+
+#: ../joliprint_admin_options.php:612
+msgid "(ie. joliprint_printed_pdf)"
+msgstr "(ex :  joliprint_printed_pdf)"
+
+#: ../joliprint_admin_options.php:617
+msgid "Campaign name"
+msgstr "Nom de la campagne (utm_campaign)"
+
+#: ../joliprint_admin_options.php:621
+msgid "(ie. PDF)"
+msgstr "(ex : PDF)"
+
+#: ../joliprint_admin_options.php:631
+msgid "If you have made changes in this page it would be a clever idea to reset your PDF cache files on Joliprint.<br/>"
+msgstr "Si vous avez apport&eacute; des modifications sur cette page il serait utile que vous r&eacute;initialiser le cache de vos fichiers PDF sur le serveur Joliprint<br/>"
+
+#: ../joliprint_admin_options.php:631
+#, php-format
+msgid "You can reset your cache files on this <a href=\"%1$s\">page</a>."
+msgstr "Vous pouvez r&eacute;-initialiser vos fichiers de cache sur <a href=\"%1$s\">cette page</a>."
+
+#: ../joliprint_admin_options.php:634
+msgid "The cache of your PDF files has been deleted on the Joliprint server.<br/>"
+msgstr "Les fichiers de cache de vos PDF ont étés supprim&eacute;s du serveur Joliprint.<br/>"
+
+#: ../joliprint_admin_options.php:687
+msgid "Give this plugin a perfect Rating !"
+msgstr "Donnez nous une bonne note !"
+
+#: ../joliprint_admin_options.php:688
+msgid "Tell your followers"
+msgstr "Parlez en sur twitter"
+
+#: ../joliprint_admin_options.php:689
+msgid "Like our Facebook page"
+msgstr "J'aime"
+
+#: ../joliprint_admin_options.php:690
+msgid "Follow <a href='http://twitter.com/joliprint' target='_blank'>Joliprint's updates on Twitter</a> &amp; Visit <a href='http://www.joliprint.com/blog/' target='_blank'>our blog</a>"
+msgstr "Suivez <a href='http://twitter.com/joliprint' target='_blank'>les updates Joliprint sur Twitter</a> &amp; visitez <a href='http://www.joliprint.com/blog/' target='_blank'>notre blog</a>"
+
+#: ../joliprint_admin_options.php:691
+msgid "Support and Help"
+msgstr "Aide et support"
+
+#: ../joliprint_admin_options.php:699
+msgid "Hide Joliprint credit in waiting page."
+msgstr "Cacher le logo Joliprint dans la page d'attente."
+
+#: ../joliprint_admin_options.php:701
+msgid "Show Joliprint credit in waiting page."
+msgstr "Montrer le logo Joliprint dans la page d'attente."
+
+#: ../joliprint_ajax.php:29
+msgid "This action is not valid."
+msgstr "Cette action n'est pas autoris&eacute;e, nous sommes d&eacute;sol&eacute;."
+
+#: ../joliprint_ajax.php:58
+msgid "Cache update is not possible due to your Wordpress version. Please upgrade to at least Wordpress 2.7."
+msgstr "La r&eacute;-initialisation du cache n'est pas possible &agrave; cause de votre version de Wordpress trop ancienne. Pour b&eacute;n&eacute;ficier de toutes les fonctionnalit&eacute;s vous devez utiliser au moins la version 2.7 de Wordpress."
+
+#: ../joliprint_options_upload.php:5
+msgid "You do not have permission to upload files."
+msgstr "Vous n'avez pas les droits n&eacute;cessaires pour t&eacute;l&eacute;charger des fichiers."
+
+#: ../joliprint_options_upload.php:6
+msgid "You do not have permission to edit plugins."
+msgstr "Vous n'avez pas les droits n&eacute;cessaires pour &eacute;diter les plugins"
+
+#: ../joliprint_options_upload.php:107
+msgid "The upload directory doesn't exists on your server and the plugin failed to create it.<br><strong>Please create a joliprint directory in your /wp-content/uploads/ directory.</strong>"
+msgstr "Le r&eacute;pertoire de t&eacute;l&eacute;chargement n'existe pas sur votre serveur et le plugin a &eacute;chou&eacute; dans sa tentative pour le cr&eacute;er.<br/><strong>Veuillez s'il vous plait cr&eacute;er le répertoire joliprint dans votre répertoire /wp-content/uploads.</strong>"
+
+#: ../joliprint_options_upload.php:116
+msgid "<p style='color:green'>Your file has been sent to the server, thank you.</p>"
+msgstr "<p style='color:green'>Votre fichier a &eacute;t&eacute; t&eacute;l&eacute;charg&eacute; sur le serveur, merci.</p>"
+
+#: ../joliprint_options_upload.php:119
+msgid "<p style='color:red'>This action is not authorized, we are sorry.</p>"
+msgstr "<p style='color:red'>Cette action n'est pas autoris&eacute;e, nous sommes désol&eacute;.</p>"
+
+#: ../joliprint_options_upload.php:124
+msgid "Please choose a file to upload"
+msgstr "Veuillez choisir un fichier &agrave; t&eacute;l&eacute;charger"
+
+#~ msgid ""
+#~ "<strong>Note :</strong> Here you can choose the Joliprint server you want "
+#~ "to use for your PDF print out.<br/>This server will be used by your "
+#~ "visitors, so if they are mostly in America, choose the US Server; if they "
+#~ "are mostly in European Union choose the EU Server."
+#~ msgstr ""
+#~ "<strong>Note :</strong> Ici vous pouvez choisir le serveur Joliprint que "
+#~ "vous souhaitez utiliser pour vos g&eacute;n&eacute;rations de PDF.<br/>Si "
+#~ "vos utilisateurs proviennent principalement d'Europe vous devriez choisir "
+#~ "le serveur EU; s'ils sont majoritairement en Am&eacute;rique vous devriez "
+#~ "choisir le serveur US."
+
+#~ msgid "Prefered Joliprint server zone"
+#~ msgstr "Zone du serveur Joliprint"
+
+#~ msgid "US server"
+#~ msgstr "Serveur US"
+
+#~ msgid "EU server"
+#~ msgstr "Serveur EU"
+
+#~ msgid "TEST server"
+#~ msgstr "Serveur de tests"
+
+#~ msgid "Your PDF is ready."
+#~ msgstr "Votre PDF est pr&ecirc;t."
+
+#~ msgid "Click here to download the PDF."
+#~ msgstr "Cliquez ici pour t&eacute;l&eacute;charger le PDF."
+
+#~ msgid "or click here to close this window"
+#~ msgstr "ou cliquez ici pour fermer cette fen&ecirc;tre"
+
+#~ msgid "An error occured"
+#~ msgstr "Une erreur est apparue"
+
+#~ msgid "Click here to close this message."
+#~ msgstr "Cliquez ici pour fermer ce message."
+
+#~ msgid "Creating your PDF"
+#~ msgstr "PDF en cours de cr&eacute;ation"
+
+#~ msgid "Google Analytics ID"
+#~ msgstr "Identifiant Google Analytics"
+
+#~ msgid "Joliprint server cannot be reached."
+#~ msgstr "Le serveur Joliprint n'est pas accessible."
+
+#~ msgid ""
+#~ "Zendesk support for Joliprint is not available at the moment, please try "
+#~ "again later"
+#~ msgstr ""
+#~ "Le support Zendesk pour Joliprint n'est pas disponible actuellement, "
+#~ "merci de ré-essayer plus tard"
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid ""
+#~ "Please note that PDF documents are cached on the Joliprint servers for at "
+#~ "least 30 seconds. Your changes may not be visible instantaneously."
+#~ msgstr ""
+#~ "Notez que les documents PDF sont mis en cache sur les serveurs Joliprint "
+#~ "pour une durée minimum de 30 secondes. Vos changements peuvent donc ne "
+#~ "pas être visibles tout de suite."
+
+#~ msgid "Test Joliprint on your last blog post"
+#~ msgstr "Testez Joliprint sur votre dernier article"
+
+#~ msgid ""
+#~ "If you encounter any problem while using Joliprint or if you just want to "
+#~ "give us a little feedback or suggestion, please click <a href=\"%1$s\">on "
+#~ "this feedback link</a>."
+#~ msgstr ""
+#~ "Si vous rencontrez des problèmes lors de l'utilisation de Joliprint ou si "
+#~ "vous souhaitez nous faire un retour ou une suggestion, veuillez cliquer "
+#~ "<a href=\"%1$s\">sur ce lien</a>."
+
+#~ msgid ""
+#~ "The PDF file cache for this post has been updated on the Joliprint server."
+#~ "<br/>"
+#~ msgstr ""
+#~ "Le fichier PDF pour cet article a été ré-initialisé sur le serveur "
+#~ "Joliprint.<br/>"
+
+#~ msgid ""
+#~ "The PDF file cache for this page has been updated on the Joliprint server."
+#~ "<br/>"
+#~ msgstr ""
+#~ "Le fichier PDF pour cette page a été ré-initialisé sur le serveur "
+#~ "Joliprint.<br/>"
+
+#~ msgid ""
+#~ "Something went wrong while refreshing the Joliprint PDF cache file for "
+#~ "this post. You will need to update the Joliprint PDF cache files "
+#~ "manually. <br/>"
+#~ msgstr ""
+#~ "Quelque chose s'est mal déroulé durant la mise à jour du fichier PDF en "
+#~ "cache sur le serveur Joliprint pour cet article. Vous devrez ré-"
+#~ "initialiser les fichiers de cache Joliprint manuellement.<br/>"
+
+#~ msgid ""
+#~ "Something went wrong while refreshing the Joliprint PDF cache file for "
+#~ "this page. You will need to update the Joliprint PDF cache files "
+#~ "manually. <br/>"
+#~ msgstr ""
+#~ "Quelque chose s'est mal déroulé durant la mise à jour du fichier PDF en "
+#~ "cache sur le serveur Joliprint pour cette page. Vous devrez ré-"
+#~ "initialiser les fichiers de cache Joliprint manuellement.<br/>"
+
+#~ msgid "Option saved."
+#~ msgstr "Modifications sauvegardées."
+
+#~ msgid "Label of the button"
+#~ msgstr "Libellé du bouton"
+
+#~ msgid "Position of the label"
+#~ msgstr "Position du libellé"
+
+#~ msgid ""
+#~ "Note : please keep in mind that the joliprint plugin won't delete your "
+#~ "modifications in your templates if you deactivate or remove it."
+#~ msgstr ""
+#~ "Note : gardez à l'esprit que le plugin joliprint ne supprimera les "
+#~ "modifications que vous apporterez à vos templates wordpress si jamais "
+#~ "vous désactiviez ou supprimiez ce plugin."
+
+#~ msgid "URL to your logo"
+#~ msgstr "URL vers votre logo"
+
+#~ msgid ""
+#~ "You can use vectorized logos in eps or ai if you want. The recommanded "
+#~ "size for your logo to use with Joliprint is xxxXxxx ?<br/><strong>Be sure "
+#~ "that this URL will be visible on the internet.</strong>"
+#~ msgstr ""
+#~ "Vous pouvez utiliser des logos vectorisés au format eps ou ai si vous le "
+#~ "souhaitez. La taille recommandée pour l'utilisation avec Joliprint pour "
+#~ "ce logo est de xxxXxxx<br/><strong>Votre logo doit être accessible sur "
+#~ "internet sans authentification.</strong>"
+
+#~ msgid "On the home page"
+#~ msgstr "Sur la page d'accueil"
+
+#~ msgid "In posts"
+#~ msgstr "Sur les articles"
+
+#~ msgid "In pages"
+#~ msgstr "Sur les pages"
+
+#~ msgid "Do not show on the homepage"
+#~ msgstr "Ne pas montrer sur la page d'accueil"
+
+#~ msgid "I will place it by myself (advanced)"
+#~ msgstr "A l'endroit de mon choix (avancé)"
+
+#~ msgid "Based on your domain name : <strong>%1$s</strong>"
+#~ msgstr "Basé sur votre nom de domaine : <strong>%1$s</strong>"
+
+#~ msgid "Wordpress blog name"
+#~ msgstr "Nom de votre blog"
+
+#~ msgid "DEV server"
+#~ msgstr "Serveur DEV"
+
+#~ msgid "Delete"
+#~ msgstr "Effacer"
+
+#~ msgid ""
+#~ "Because of your browser you need to click on the link to download your PDF"
+#~ msgstr "Merci de cliquer sur le lien pour récupérer votre PDF"
+
+#~ msgid "PDF header options"
+#~ msgstr "Entête d'impression PDF"
+
+#~ msgid "Text link, or use your own button"
+#~ msgstr "Lien textuel, ou utilisez votre propre bouton"
+
+#~ msgid "URL of your print button"
+#~ msgstr "URL de votre bouton personnalisé"
+
+#~ msgid "This text will be used for your PDF headers"
+#~ msgstr "Ce texte sera utilisé pour vos en-têtes de PDF"
+
+#~ msgid "Logo URL"
+#~ msgstr "URL du logo"
+
+#~ msgid ""
+#~ "Joliprint is caching PDF files for a few hours. If you have made changes "
+#~ "here it may be a good idea to reset the cache from the server now."
+#~ msgstr ""
+#~ "Joliprint met en cache les fichiers PDF pour plusieurs heures. Si vous "
+#~ "avez fait des modifications sur cet écran il serait bien que vous "
+#~ "réinitialisiez le cache du serveur maintenant."
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Personalize"
+#~ msgstr "Personnaliser"
+
+#~ msgid "URL to your custom button"
+#~ msgstr "URL de votre bouton personnalisé"
+
+#~ msgid ""
+#~ "Please use only png,jpg,gif or bmp images. The recommanded size for your "
+#~ "logo to use with Joliprint is 16x16px ?<br/><strong>Be sure that this URL "
+#~ "will be visible on the internet.</strong>"
+#~ msgstr ""
+#~ "Veuillez utiliser uniquement des images png, jpg, gif ou bmp. La taille "
+#~ "recommandée pour votre bouton Joliprint est de 16x16 px.<br/"
+#~ "><strong>L'URL spécifiée doit être visible sur internet.</strong>"
+
+#~ msgid "Google Analytics Options"
+#~ msgstr "Options Google Analytics"
+
+#~ msgid "FeedBack"
+#~ msgstr "Support (en anglais)"
+
+#~ msgid "Joliprint button will appear after the text"
+#~ msgstr "Le bouton Joliprint apparaitra après le texte"
+
+#~ msgid "Joliprint button will appear before the text"
+#~ msgstr "Le bouton Joliprint apparaitra avant le texte"
+
+#~ msgid ""
+#~ "I will place the button myself by editing my own template files (advanced)"
+#~ msgstr ""
+#~ "Je placerais le bouton Joliprint moi-même en éditant mon template "
+#~ "Wordpress (avancé)"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Appears in posts"
+#~ msgstr "Présent dans les billets"
+
+#~ msgid "Appears in pages"
+#~ msgstr "Présent sur les pages "
+
+#~ msgid "Joliprint Template Options"
+#~ msgstr "Options des templates Joliprint"
+
+#~ msgid ""
+#~ "<strong>Note :</strong> Joliprint will use your domain name in the "
+#~ "template header.<br/>Maybe have you a nice and big logo for your website "
+#~ "that you want to use in the Joliprint templates ? If so you can enter the "
+#~ "URL of this image in the dedicated text field below or you can set the "
+#~ "header text that will be used by Joliprint if you don't have any logo.<br/"
+#~ ">If Joliprint finds a logo for your website it will use it in your PDF."
+#~ "<br/>If no logo can be found it will use the header text you have defined "
+#~ "in this page.<br/>If no header text can be found it will use your domain "
+#~ "name. "
+#~ msgstr ""
+#~ "<strong>Note :</strong> Joliprint utilisera par défaut votre nom de "
+#~ "domaine dans les en-têtes d'impressions PDF.<br/>Vous avez peut être à "
+#~ "disposition un logo que vous souhaiteriez voir utiliser par Joliprint "
+#~ "lorsque vos utilisateurs imprime un contenu sur votre blog. Si tel est le "
+#~ "cas vous pouvez spécifier l'URL d'accès à logo ou bien le télécharger "
+#~ "grâce au bouton Télécharger mon logo ci-dessous.<br/>Si aucun logo ne "
+#~ "peut être trouvé par Joliprint il utilisera le cas échéant le texte que "
+#~ "vous pouvez saisir dans le champs \"Entête textuelle\" ci-dessous ou "
+#~ "utilisera votre nom de domaine en dernier recours."
+
+#~ msgid "Text header you want to display on your PDF if no logo can be found"
+#~ msgstr ""
+#~ "Texte que vous souhaitez voir apparaître en en-tête de vos documents PDF "
+#~ "si aucun logo ne peut être trouvé"
